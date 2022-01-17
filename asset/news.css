@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+#news {
+    width: 60%;
+    background-color:white;
+}
+#news h2 {
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+#news{
+    font-size: 20px;
+}
+img {
+    width: 100%;
+}

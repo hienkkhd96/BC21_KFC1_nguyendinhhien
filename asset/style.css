@@ -1,0 +1,76 @@
+#header .logo {
+    width:100px
+}
+#header .text-kfc {
+    background-color:rgb(255, 0, 0);
+    color: white;
+    text-transform:uppercase;
+}
+
+#nav .nav-link {
+    display: block;
+    font-size: 20px;
+}
+/* begin info css */
+#content .container{
+    background-color: brown;
+}
+#content .head-content{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin: 33px 0;
+    font-weight: 700;
+}
+#content p{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 500;
+
+
+}
+#content .about-content1,
+#content .about-content3
+{
+    color: white;
+    text-align: justify;
+
+}
+#content .about-content2{
+    font-style: italic;
+    font-weight: 700;
+    display: inline;
+}
+#content .about-content3{
+    display: inline;
+}
+#content img {
+    margin-top: 30px;
+    display: block;
+    width: 50%;
+}
+/* end info css */
+/* begin process css */
+#content .place {
+    color: white;
+    font-size:25px;
+}
+/* end process css */
+/* begin table css  */
+#table-price h1 {
+    text-align: center;
+}
+#table-price .table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 800px;
+}
+thead {
+    text-align:center;
+    height:56px;
+    font-weight: bold;
+}
+td {
+    border: 1px solid black;
+}
