@@ -9,7 +9,7 @@ for (let i = 0; i < tdItems.length; i++) {
         case ('Hot'):
         tdItems[i].style.textAlign = 'left';
         break;
-        case ('cold'):
+        case ('Cold'):
         tdItems[i].style.textAlign = 'right';
         break;
         case ('Cold (only)'):
